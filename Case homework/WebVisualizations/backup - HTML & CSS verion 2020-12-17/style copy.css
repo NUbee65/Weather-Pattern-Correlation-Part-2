@@ -1,0 +1,72 @@
+body{
+  background-color: rgb(242,242,242);
+}
+
+h1{
+  color: teal;
+  font-family: Georgia, serif;;
+  font-weight: bold;
+  font-stretch: extra-expanded;
+  font-size: 24px;
+}
+
+h2{
+  color: teal;
+  font-family: Georgia, serif;;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.summary-image{
+  width: 300px;
+  float: left;
+}
+
+.small-image{
+  width: 140px;
+  float: left;
+}
+
+.navbar-links{
+  float: right;
+}
+
+.navbar-brand{
+  background-color: teal;
+  padding: 6px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  color: white;
+}
+
+.viz-info{
+  background-color: white;
+  
+  text-align: justify;
+  padding: 40px 40px 40px 40px;
+  height: 435px;
+}
+
+.table-info{
+  background-color: white;
+  padding: 40px 40px 40px 40px;
+}
+
+#content-container{
+  padding: 40px 40px 60px 150px;
+  visibility: visible;
+}
+
+#data-table-container{
+  padding: 40px 40px 60px 160px;
+  visibility: visible;
+}
+
+.footer{
+  background-color: rgb(169,169,169,0.15);
+  text-align: center;
+  height: 48px;
+  bottom: 0;
+  width: 100%;
+  color: whitesmoke;
+}
