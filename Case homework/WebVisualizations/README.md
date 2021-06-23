@@ -2,7 +2,7 @@
 
 ## Summary / Folder Contents
 
-Per the assignment instructions, please find the repository the following items:
+Please find the repository the following items:
 
 1. The 7 required HTML files: index, comparison, temperature, humidity, cloudiness, wind speed, and data
 
