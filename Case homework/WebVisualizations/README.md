@@ -1,6 +1,6 @@
-# Web Design Homework - Web Visualization Dashboard (Latitude)
+# Web Visualization Dashboard (Latitude)
 
-## Summary / Folder Contenxts
+## Summary / Folder Contents
 
 Per the assignment instructions, please find the repository the following items:
 
