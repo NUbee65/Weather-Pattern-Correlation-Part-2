@@ -24,7 +24,7 @@ I think I generally accomplished the goals of this exercise.  I worked hard to e
 
 For the bonus, I added my own data.  I added Northern and Southern Hemisphere graphs.  And I added my own analysis and discussion.
 
-I tried very hard to make the Northern and Souther Hemisphere images modal, which involved a lot of work on the style.css and script.js files.  I could get the style and javascript code to work inside the html files.  But unfortunately, I haven't had enough experience with modal javascript files and modal style.css code and modal html code together to know exactly why I couldn't get everything to operate.
+I tried very hard to make the Northern and Southern Hemisphere images modal, which involved a lot of work on the style.css and script.js files.  I could get the style and javascript code to work inside the html files.  But unfortunately, I haven't had enough experience with modal javascript files and modal style.css code and modal html code together to know exactly why I couldn't get everything to operate.
 
 In any event, I cleaned out the modal code and the javascript link in question within the html files.
 
