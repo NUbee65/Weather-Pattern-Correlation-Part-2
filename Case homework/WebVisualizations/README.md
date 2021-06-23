@@ -2,11 +2,11 @@
 
 ## Summary / Folder Contents
 
-Please find the repository the following items:
+Please find in the repository the following items:
 
-1. The 7 required HTML files: index, comparison, temperature, humidity, cloudiness, wind speed, and data
+1. 7 core HTML files: index, comparison, temperature, humidity, cloudiness, wind speed, and data
 
-2. An additional 8 HTML files named as Fig1-A, Fig 1-B, Fig 2-A... which provide full-size views of the Northern and Southern Hemisphere graphs
+2. An additional 8 HTML files dedicated to individual images, named as Fig1-A, Fig 1-B, Fig 2-A... which provide full-size views of the Northern and Southern Hemisphere graphs
 
 3. A Resources folder with four subfolders: assets, css, data, and js.  The assets folder contains an image folder.
 
